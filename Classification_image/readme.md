@@ -11,9 +11,9 @@
 6. Обучение модели глубокого машинного обучения и сравнение метрик 
 7. Подведение итогов
 
-Папка содержит:
-Ноутбук с кодом (Final_project_final.ipynb)
-Файл модели (fire_detector_TFKeras.keras)
-Файл с метаданными для модели (fire_detector_meta.json)
+Папка содержит:  
+Ноутбук с кодом (Final_project_final.ipynb)  
+Файл модели (fire_detector_TFKeras.keras)  
+Файл с метаданными для модели (fire_detector_meta.json)  
 Файл readme.md
 
