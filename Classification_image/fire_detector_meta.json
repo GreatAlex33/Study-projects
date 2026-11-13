@@ -1,0 +1,16 @@
+{
+  "model_path": "fire_detector_TFKeras.keras",
+  "threshold": 0.5299066305160522,
+  "class_names": [
+    "fire",
+    "nofire"
+  ],
+  "img_size": [
+    224,
+    224
+  ],
+  "preprocessing": {
+    "rescale": "1./255",
+    "mobilenet_range": "[-1, 1] (Rescaling scale=2.0, offset=-1.0 внутри модели)"
+  }
+}
